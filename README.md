@@ -24,5 +24,5 @@ This project implements a virtual keyboard using OpenCV, allowing users to type 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/virtual-keyboard.git
+   git clone https://github.com/Vamshi36819/virtual-keyboard.git
    cd virtual-keyboard
